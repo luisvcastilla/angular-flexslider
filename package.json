@@ -1,0 +1,22 @@
+{
+  "name": "angular-flexslider",
+  "version": "1.0.0",
+  "description": "Provides a `flex-slider` directive to include and initialize a [FlexSlider](http://flexslider.woothemes.com/) slideshow in an [AngularJS](http://angularjs.org/) application.",
+  "main": "angular-flexslider.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisvcastilla/angular-flexslider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisvcastilla/angular-flexslider/issues"
+  },
+  "homepage": "https://github.com/luisvcastilla/angular-flexslider#readme"
+}
